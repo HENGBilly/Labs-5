@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "username": "wiener",
+            "password": "peter",
+            "role": "tier"
+        },
+        {
+            "username": "admin",
+            "password": "adminpass",
+            "role": "admin"
+        },
+        {
+            "username": "carlos",
+            "password": "1234",
+            "role": "tier"
+        }
+    ]
+}
+
